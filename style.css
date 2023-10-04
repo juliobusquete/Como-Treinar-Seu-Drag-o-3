@@ -29,12 +29,12 @@ h1 {
    text-align: center; 
 }
 
-.buttom container {
+.button-container {
    text-align: center;
    margin-top: 20px;
 }
 
-.buttom {
+.button {
    display: inline-block;
    padding: 10px 20px;
    background-color: #fff;
@@ -44,11 +44,10 @@ h1 {
    border: none;
    cursor: pointer;
    margin-right: 12px;
-   margin-botton: 12px;
+   margin-bottom: 12px;
    border-radius: 7px;
-   display: block;
 }
 
-.botton-hover {
+.button:hover {
    background-color: #f00;
 }
