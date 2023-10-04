@@ -28,3 +28,27 @@ h1 {
    margin-top: 25px;
    text-align: center; 
 }
+
+.buttom container {
+   text-align: center;
+   margin-top: 20px;
+}
+
+.buttom {
+   display: inline-block;
+   padding: 10px 20px;
+   background-color: #fff;
+   color: black;
+   text-decoration: none;
+   font-weight: bold;
+   border: none;
+   cursor: pointer;
+   margin-right: 12px;
+   margin-botton: 12px;
+   border-radius: 7px;
+   display: block;
+}
+
+.botton-hover {
+   background-color: #f00;
+}
