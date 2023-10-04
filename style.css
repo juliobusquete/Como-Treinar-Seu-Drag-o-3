@@ -45,20 +45,19 @@ h1 {
     display: inline-block;
     padding: 10px 20px;
     background-color: #0074d9;
-    color: white; 
+    color: white;
     text-decoration: none;
     font-weight: bold;
     border: none;
     cursor: pointer;
-    margin-right: 12px;
-    margin-bottom: 12px;
     border-radius: 7px;
 }
 
 .button:hover {
-    background-color: #0056b3; 
+    background-color: #0056b3;
 }
 
 .button:focus {
-    outline: none;
+    outline: none; 
 }
+
