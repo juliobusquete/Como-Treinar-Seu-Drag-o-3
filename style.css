@@ -5,7 +5,7 @@ body {
    background-attachment: fixed;
    background-position: center center;
    font-family: Arial;
-   color: black;
+   color: white;
    margin: 0;
    padding: 0;
    height: 100vh;
@@ -15,7 +15,7 @@ body {
 }
 
 #content {
-   background-color: rgba(0, 0, 0, 0.7);
+   background-color: #14 18 18;
    padding: 20px;
    text-align: left; 
    display: flex; 
