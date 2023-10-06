@@ -1,0 +1,29 @@
+<!DOCTYPE html> serve para dizer qual versão do html o site irá usar
+
+<html lang="pt-br"> serve para dizer que o site está em inglẽs
+
+<head> é o cabeçario do site
+
+<meta charset="UTF-8"> qual é o tipo de caracteres que o site irá usar
+
+<link rel="stylesheet" type="text/css" href="style.css"> é para o código saber o "caminho" do código que está o style que o site irá usar
+
+<title> é o titulo da aba
+
+ <style> é o estilo que o site vai ter
+
+<body> é o corpo do site on de terão titulos, pargrafos, etc
+
+<div> é o para código dividir o código quando ele for aberto
+
+<h1> é o titulo do assunto do código
+
+<p> são os paragrafos
+
+<a> é ancora para sites
+
+<video> é para definir coisa se vocẽ for colocar um vdeo no site
+
+<source> é para procurar um video, imagaem, etc. para colocar no site
+
+</html> é para fechar o código
