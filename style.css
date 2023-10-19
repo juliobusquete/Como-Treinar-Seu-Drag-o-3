@@ -1,36 +1,25 @@
+/* styles.css */
 body {
-   background-image: url; /* Substitua pela URL da imagem desejada */
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-position: center center;
-   height: 100vh;
-   margin: 0;
-   overflow: hidden;
-   background-color: #333; 
-   color: white;  
-   font-family: Arial, sans-serif; 
-   display: flex;
-   justify-content: center;
-   align-items: center;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+    color: white;
+    font-family: Arial, sans-serif;
 }
 
 #content {
-    background-color: rgba(0, 0, 0, 0.7); 
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 20px;
-    text-align: center; 
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h1 {
     font-size: 36px;
     margin-top: 25px;
-    text-align: center; 
-}
-
-p {
-   font-size: 20px;
-   max-width: 600px;
-   padding: 20px;
+    text-align: center;
 }
 
 .button-container {
@@ -47,6 +36,8 @@ p {
     font-weight: bold;
     border: none;
     cursor: pointer;
+    margin-right: 12px;
+    margin-bottom: 12px;
     border-radius: 7px;
 }
 
@@ -55,5 +46,5 @@ p {
 }
 
 .button:focus {
-    outline: none; 
+    outline: none;
 }
